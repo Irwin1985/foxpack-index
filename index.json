@@ -10,6 +10,11 @@
       "name": "linqvfp",
       "repo": "Irwin1985/LinqVFP",
       "description": "LINQ-style queries over collections and cursors for VFP 9: Where, Select, OrderBy, GroupBy, Join and aggregates"
+    },
+    {
+      "name": "foxcollection",
+      "repo": "Irwin1985/FoxCollection",
+      "description": "Data structures for VFP 9: array, dictionary, stack and queue, with Count and Item() like a Collection"
     }
   ]
 }
