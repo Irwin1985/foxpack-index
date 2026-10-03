@@ -5,6 +5,11 @@
       "name": "jsonfox",
       "repo": "Irwin1985/JSONFox",
       "description": "JSON parser and serializer for VFP in a single PRG"
+    },
+    {
+      "name": "linqvfp",
+      "repo": "Irwin1985/LinqVFP",
+      "description": "LINQ-style queries over collections and cursors for VFP 9: Where, Select, OrderBy, GroupBy, Join and aggregates"
     }
   ]
 }
