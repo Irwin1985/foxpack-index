@@ -15,6 +15,11 @@
       "name": "foxcollection",
       "repo": "Irwin1985/FoxCollection",
       "description": "Data structures for VFP 9: array, dictionary, stack and queue, with Count and Item() like a Collection"
+    },
+    {
+      "name": "foxextends",
+      "repo": "Irwin1985/FoxExtends",
+      "description": "Functions VFP 9 never had: PRINTF, NEWGUID, ENUM, regular expressions, ADIR and AFIELDS as objects, and a password box"
     }
   ]
 }
