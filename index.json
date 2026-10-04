@@ -20,6 +20,11 @@
       "name": "foxextends",
       "repo": "Irwin1985/FoxExtends",
       "description": "Functions VFP 9 never had: PRINTF, NEWGUID, ENUM, regular expressions, ADIR and AFIELDS as objects, and a password box"
+    },
+    {
+      "name": "foxremote",
+      "repo": "Irwin1985/FoxRemote",
+      "description": "One API for SQL Server, MySQL, MariaDB, PostgreSQL, Firebird and SQLite from VFP 9 through ODBC: parameters, transactions, buffered cursors that save their changes, and DBF migration"
     }
   ]
 }
