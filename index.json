@@ -25,6 +25,16 @@
       "name": "foxremote",
       "repo": "Irwin1985/FoxRemote",
       "description": "One API for SQL Server, MySQL, MariaDB, PostgreSQL, Firebird and SQLite from VFP 9 through ODBC: parameters, transactions, buffered cursors that save their changes, and DBF migration"
+    },
+    {
+      "name": "foxstylesheet",
+      "repo": "Irwin1985/FoxStyleSheet",
+      "description": "Style sheets for VFP 9 forms: CSS-like themes by class, name and event, 16 built-in themes, and light and dark with a sun and moon switch"
+    },
+    {
+      "name": "vfpstretch",
+      "repo": "Irwin1985/VFPStretch",
+      "description": "Resizes every control of a VFP 9 form with its window, and opens forms at a zoom shared by the whole application"
     }
   ]
 }
