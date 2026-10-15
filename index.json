@@ -35,6 +35,11 @@
       "name": "vfpstretch",
       "repo": "Irwin1985/VFPStretch",
       "description": "Resizes every control of a VFP 9 form with its window, and opens forms at a zoom shared by the whole application"
+    },
+    {
+      "name": "getdirpro",
+      "repo": "Irwin1985/GetDirPro",
+      "description": "A folder picker for VFP 9 written in VFP: GETDIR() with a tree that opens at once, typed paths, new folders and the theme of your application"
     }
   ]
 }
