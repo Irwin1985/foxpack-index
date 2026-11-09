@@ -40,6 +40,62 @@
       "name": "getdirpro",
       "repo": "Irwin1985/GetDirPro",
       "description": "A folder picker for VFP 9 written in VFP: GETDIR() with a tree that opens at once, typed paths, new folders and the theme of your application"
+    },
+    {
+      "name": "foxdock-editor",
+      "kind": "foxdock-plugin",
+      "id": "editor",
+      "repo": "Irwin1985/foxdock-editor",
+      "description": "Small utilities for the code editor: a new GUID on the clipboard or at the cursor",
+      "house": true
+    },
+    {
+      "name": "foxdock-history",
+      "kind": "foxdock-plugin",
+      "id": "history",
+      "repo": "Irwin1985/foxdock-history",
+      "description": "Keeps the previous version of each form, class library, report, label and menu you edit, with diff and restore",
+      "house": true
+    },
+    {
+      "name": "foxdock-foxforge",
+      "kind": "foxdock-plugin",
+      "id": "foxforge",
+      "repo": "Irwin1985/foxdock-foxforge",
+      "description": "Hosts FoxForge, the VFP project workshop, in the FoxDock menu",
+      "house": true
+    },
+    {
+      "name": "foxdock-themes",
+      "kind": "foxdock-plugin",
+      "id": "themes",
+      "repo": "Irwin1985/foxdock-themes",
+      "description": "Color themes for the IDE: syntax colors, the editor font, and the font and colors of the main window",
+      "house": true
+    },
+    {
+      "name": "foxdock-designer",
+      "kind": "foxdock-plugin",
+      "id": "designer",
+      "repo": "Irwin1985/foxdock-designer",
+      "description": "Tools for the Form Designer and the Class Designer: inspect the selection, copy it as code, and find the control under the mouse",
+      "house": true
+    },
+    {
+      "name": "foxdock-queries",
+      "kind": "foxdock-plugin",
+      "id": "queries",
+      "repo": "Irwin1985/foxdock-queries",
+      "description": "A window for the .sql files of FoxQuery: list them, check them for each engine, run them and compile them into a catalog",
+      "house": true
+    },
+    {
+      "name": "foxdock-data",
+      "kind": "foxdock-plugin",
+      "id": "data",
+      "repo": "Irwin1985/foxdock-data",
+      "description": "Tables, cursors and database connections from the IDE: JSON in and out, export, SQL scripts and an explorer for ODBC servers",
+      "house": true
     }
   ]
 }
