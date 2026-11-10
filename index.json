@@ -42,6 +42,11 @@
       "description": "A folder picker for VFP 9 written in VFP: GETDIR() with a tree that opens at once, typed paths, new folders and the theme of your application"
     },
     {
+      "name": "foxquery",
+      "repo": "Irwin1985/FoxQuery",
+      "description": "Named SQL queries for Visual FoxPro 9: one .sql file per query, run by name on SQL Server, MySQL, MariaDB, PostgreSQL, Firebird, SQLite or DBF, compiled to a signed catalog"
+    },
+    {
       "name": "foxdock-editor",
       "kind": "foxdock-plugin",
       "id": "editor",
